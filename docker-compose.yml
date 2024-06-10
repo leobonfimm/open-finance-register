@@ -1,0 +1,23 @@
+version: '3.9'
+
+services:
+  host-app:
+    build:
+      context: "./@host-app"
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+
+  partner-manage-remote:
+    build:
+      context: "./partner-manage-remote"
+      dockerfile: Dockerfile
+    ports:
+      - "5001:5001"
+
+  company-manage-remote:
+    build:
+      context: "./company-manage-remote"
+      dockerfile: Dockerfile
+    ports:
+      - "5002:5002"
