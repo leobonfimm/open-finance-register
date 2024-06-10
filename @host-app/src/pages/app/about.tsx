@@ -37,10 +37,7 @@ export function About() {
                 Tailwind CSS
               </a>{' '}
               e{' '}
-              <a
-                className="text-blue-500"
-                href="https://tailwindcss.com/docs/installation"
-              >
+              <a className="text-blue-500" href="https://ui.shadcn.com/">
                 shadcn/ui
               </a>
             </label>

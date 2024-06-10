@@ -13,7 +13,7 @@ Projeto de gerenciamento de parceiros e empresas externas utilizando React + Vit
 
 #### Configurações iniciais
 - [x] Configuração do Vite junto com o pacote [Federation](https://github.com/originjs/vite-plugin-federation)
-- [x] Configuração dos temas, estilizações e componentes usando [Tailwind CSS](https://tailwindcss.com/docs/installation) e [shadcn/ui](https://tailwindcss.com/docs/installation)
+- [x] Configuração dos temas, estilizações e componentes usando [Tailwind CSS](https://tailwindcss.com/docs/installation) e [shadcn/ui](https://ui.shadcn.com/)
 - [x] Estrutura de rotas da aplicação usando [react-router-dom](https://reactrouter.com/en/main)
 - [x]  Desenvolvimento dos layouts padrão
 - [x] Páginas do Host
